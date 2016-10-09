@@ -1,0 +1,2 @@
+plugins:
+- gopkg.in/sensorbee/py.v0/pystate/plugin
